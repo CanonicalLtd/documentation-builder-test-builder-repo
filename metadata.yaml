@@ -1,4 +1,4 @@
-site_title: "The title of my site"
+site_title: "1.0: The title of my site"
 navigation:
     - title: French page
       location: fr/index.md
